@@ -21,3 +21,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/part03-Part03_25.Login/target/
+/part03-Part03_26.LineByLine/target/
+/part03-Part03_27.AVClub/target/
+/part03-Part03_31.NameOfTheOldest/target/
+/part03-Part03_32.PersonalDetails/target/
